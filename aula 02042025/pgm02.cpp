@@ -7,5 +7,5 @@ int main(){
 	setlocale(LC_ALL,"portuguese");
 	printf("Qual é a sua idade: ");
 	scanf("%d",&idade);
-	printf("Sua idade é %d ",idade);	
+	printf("Sua idade é %d anos ",idade);	
 }
